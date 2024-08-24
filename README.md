@@ -9,8 +9,8 @@ Delete Contact: Users can delete a contact from the database.
 Search Contact: Users can search for contacts by name, phone number, or email.
 
 Technologies Used:
-Python: The main programming language used to build the application.
-MySQL: The SQL database used to store contact information.
+1. Python: The main programming language used to build the application.
+2. MySQL: The SQL database used to store contact information.
 
 Prerequisites:
 1. Python 3.x
